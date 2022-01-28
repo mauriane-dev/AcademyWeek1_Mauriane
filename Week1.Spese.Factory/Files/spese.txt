@@ -1,0 +1,5 @@
+﻿2021/12/19;Viaggio;Incontro con i soci;1000
+2021/12/14;Viaggio;Visita medica;50
+2022/1/6;Alloggio;Alloggio per missione;300
+2021/11/17;Vitto;Buoni pasti;500
+2021/10/24;Altro;Stipendi stage;4000

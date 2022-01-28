@@ -1,0 +1,5 @@
+﻿12/19/2021 12:00:00 AM;Viaggio;Incontro con i soci;Approvato;1050
+12/14/2021 12:00:00 AM;Viaggio;Visita medica;Approvato;100
+1/6/2022 12:00:00 AM;Alloggio;Alloggio per missione;Approvato;300
+11/17/2021 12:00:00 AM;Vitto;Buoni pasti;Approvato;350
+10/24/2021 12:00:00 AM;Altro;Stipendi stage;Non Approvato;0
